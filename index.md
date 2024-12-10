@@ -15,14 +15,14 @@ Senior Data Scientist, Ph.D. Civil Engineering
 
 Senior Data Scientist, <a href="https://connectedcars.io/company/">ConnectedCars</a>
 
-### Specialized in
+## About
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+Experienced Senior Data Scientist with over 10 years of hands-on experience. Skilled in developing robust data
+infrastructure and real-time analytics pipelines. Strong background in supporting IoT and data-driven workflows
+using cloud data technologies. Proven ability to lead data-driven projects and align platform strategy with organizational goals.
 
+## Experience
 
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
 
 
 ## Education
