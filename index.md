@@ -3,7 +3,7 @@ layout: cv
 title: James Richardson's CV
 ---
 # James Richardson
-Physicist, Mathematician, Cambridge professor.
+Senior Data Scientist, Ph.D. Civil Engineering
 
 <div id="webaddress">
 <a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
@@ -13,7 +13,7 @@ Physicist, Mathematician, Cambridge professor.
 
 ## Currently
 
-Standing on the shoulders of giants
+Senior Data Scientist, <a href="https://connectedcars.io/company/">ConnectedCars</a>
 
 ### Specialized in
 
