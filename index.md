@@ -1,8 +1,8 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: James Richardson's CV
 ---
-# Isaac Newton
+# James Richardson
 Physicist, Mathematician, Cambridge professor.
 
 <div id="webaddress">
