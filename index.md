@@ -23,6 +23,9 @@ using cloud data technologies. Proven ability to lead data-driven projects and a
 
 ## Experience
 
+`Jan. 2025 - Present`
+__AI Specialist__, <a href="https://resolve.visma.com/">Visma Resolve</a>
+
 `Feb. 2022 - Dec. 2024`
 __Senior Data Scientist__, <a href="https://connectedcars.io">ConnectedCars</a>
 
