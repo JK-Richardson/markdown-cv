@@ -23,6 +23,8 @@ using cloud data technologies. Proven ability to lead data-driven projects and a
 
 ## Experience
 
+`Feb. 2022 - Present`
+__Connected Cars__
 
 
 ## Education
