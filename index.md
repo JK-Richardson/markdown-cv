@@ -13,7 +13,7 @@ Senior Data Scientist, Ph.D. Civil Engineering
 
 ## Currently
 
-Senior Data Scientist, <a href="https://connectedcars.io/company/">ConnectedCars</a>
+AI Specialist, <a href="https://resolve.visma.com/">Visma Resolve</a>
 
 ## About
 
@@ -23,8 +23,8 @@ using cloud data technologies. Proven ability to lead data-driven projects and a
 
 ## Experience
 
-`Feb. 2022 - Present`
-__Connected Cars__
+`Feb. 2022 - Dec. 2024`
+__Senior Data Scientist__, <a href="https://connectedcars.io">ConnectedCars</a>
 
 
 ## Education
