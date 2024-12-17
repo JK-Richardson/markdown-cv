@@ -38,6 +38,13 @@ __Data Specialist, Transportation Planning__, <a href="https://cowi.com">COWI</a
 `Apr. 2015 - Nov. 2015`
 __Guest Researcher, Google X__, <a href="https://google.com">Google</a>
 
+`Feb. 2013 - Feb. 2016`
+__Special Consultant, Programmer__, <a href="https://dtu.dk">DTU (Danmarks Tekniske Universitet)</a>
+
+`Aug. 1996 - Apr. 2006`
+__Senior Database Administrator__, <a href="https://washingtonpost.com">Washington Post</a>
+
+
 ## Education
 
 `Aug. 2012`
@@ -48,14 +55,6 @@ __MS, Civil Engineering__, <a href="https://engineering.virginia.edu/">Universit
 
 `Apr. 1993`
 __Bachelor of Science__, <a href="https://cmu.edu/">Carnegie Mellon University</a>
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
 
 
 ## Awards
