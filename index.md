@@ -40,11 +40,14 @@ __Guest Researcher, Google X__, <a href="https://google.com">Google</a>
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`Aug. 2012`
+__Ph.D, Civil Engineering__, <a href="https://engineering.virginia.edu/">University of Virginia</a>
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+`Aug. 2009`
+__MS, Civil Engineering__, <a href="https://engineering.virginia.edu/">University of Virginia</a>
+
+`Apr. 1993`
+__Bachelor of Science__, <a href="https://cmu.edu/">Carnegie Mellon University</a>
 
 - Sizar
 
